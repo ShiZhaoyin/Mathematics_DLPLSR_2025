@@ -1,7 +1,6 @@
 # DLPLSR: Dual-Label Propagation Least Squares Regression for Semi-Supervised Classification
 
 This repository provides the official MATLAB implementation of **DLPLSR**, a dual-label propagation–based least squares regression framework for semi-supervised classification.  
-DLPLSR jointly exploits local manifold information and global clustering structure without generating explicit pseudo-labels, and employs an orthogonal-sparse projection to select compact and discriminative features.
 
 ## Contents
 
