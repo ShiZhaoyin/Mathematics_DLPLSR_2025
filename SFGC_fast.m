@@ -1,4 +1,4 @@
-function [W,S,Loss,Con] = SFGC_fast(X,Y,nl,opt)
+function [W,S,Loss,Con] = DLPLSR(X,Y,nl,opt)
 % -------------------------------------------------------------------------
 %  FAST SFGC  (Self-Representation + Fuzzy Graph Construction)
 %  接口:  [W,S,Loss,Con] = SFGC_fast(XL,XU,YL,opt)
