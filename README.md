@@ -1,4 +1,4 @@
-# DLPLSR: Dual-Label Propagation Least Squares Regression for Semi-Supervised Classification
+# DLPLSR: Dual-Label Propagation Least Squares Regression for Semi-Supervised Learning
 
 ## Coming Soon
 
