@@ -1,6 +1,6 @@
 # DLPLSR: Dual-Label Propagation Least Squares Regression for Semi-Supervised Learning
 
-## Coming Soon
+## This work has been accepted by Mathematics.
 
-This work is currently under submission. The full paper and additional materials will be made publicly available immediately upon acceptance.
+The code can be used in the file "Github_Upload"  and the online published version paper will be coming soon.
 
